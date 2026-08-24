@@ -35,14 +35,14 @@ Awesome-gptlike-shellsite
 
 ## 套壳站展示
 
-套壳站页面来源：[NextChat （ChatGPT Next Web）](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) ⭐ 88,641 | 🐛 851 | 🌐 TypeScript | 📅 2026-08-11
+套壳站页面来源：[NextChat （ChatGPT Next Web）](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) ⭐ 88,648 | 🐛 851 | 🌐 TypeScript | 📅 2026-08-11
 ![GitHub Logo](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/raw/main/docs/images/cover.png)
 
 ## 套壳站推荐
 
 **去哪里找壳比较好**：Github上有一些开源的项目，我们为大家整理了一些，但是更多需求还需自己去寻找合适的"壳"
 
-**最推荐的是哪个**：如果是部署卖钱，最推荐<a href="https://github.com/yangjian102621/chatgpt-plus">chat-plus</a>（列表第17位），理由是这个站点功能整合很全。
+**最推荐的是哪个**：如果是部署卖钱，最推荐[chat-plus](https://github.com/yangjian102621/chatgpt-plus) ⭐ 4,687 | 🐛 30 | 🌐 Vue | 📅 2026-08-11（列表第17位），理由是这个站点功能整合很全。
 
 **标注说明**
 
