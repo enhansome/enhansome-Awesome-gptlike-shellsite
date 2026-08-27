@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T09:24:41.546Z",
-    "original_repository": "bleedline/Awesome-gptlike-shellsite",
-    "original_repository_id": 736716411,
+    "last_updated": "2026-08-27T11:21:43.132Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 736716411,
+      "language": null,
+      "last_commit": "2024-03-01T03:16:56Z",
+      "owner": "bleedline",
+      "repo": "Awesome-gptlike-shellsite",
+      "stars": 2185
+    },
     "original_repository_sha": "954f8a293c8c65cb5e4df0e30f5bd8644f319fbc",
     "enhanced_repository": "enhansome/enhansome-Awesome-gptlike-shellsite",
     "enhanced_repository_description": null,
