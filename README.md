@@ -42,7 +42,7 @@ Awesome-gptlike-shellsite
 
 **去哪里找壳比较好**：Github上有一些开源的项目，我们为大家整理了一些，但是更多需求还需自己去寻找合适的"壳"
 
-**最推荐的是哪个**：如果是部署卖钱，最推荐[chat-plus](https://github.com/yangjian102621/chatgpt-plus) ⭐ 4,694 | 🐛 30 | 🌐 Vue | 📅 2026-09-03（列表第17位），理由是这个站点功能整合很全。
+**最推荐的是哪个**：如果是部署卖钱，最推荐[chat-plus](https://github.com/yangjian102621/chatgpt-plus) ⭐ 4,695 | 🐛 30 | 🌐 Vue | 📅 2026-09-03（列表第17位），理由是这个站点功能整合很全。
 
 **标注说明**
 
@@ -602,4 +602,4 @@ Awesome-gptlike-shellsite
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
