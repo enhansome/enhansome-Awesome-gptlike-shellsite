@@ -35,7 +35,7 @@ Awesome-gptlike-shellsite
 
 ## 套壳站展示
 
-套壳站页面来源：[NextChat （ChatGPT Next Web）](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) ⭐ 88,854 | 🐛 856 | 🌐 TypeScript | 📅 2026-10-15
+套壳站页面来源：[NextChat （ChatGPT Next Web）](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) ⭐ 88,861 | 🐛 855 | 🌐 TypeScript | 📅 2026-10-15
 ![GitHub Logo](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/raw/main/docs/images/cover.png)
 
 ## 套壳站推荐
@@ -602,4 +602,4 @@ Awesome-gptlike-shellsite
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
